@@ -17,7 +17,7 @@ This is a personal website showcasing achievements, ongoing work, and projects.
 
 ## Deployment
 
-The website is hosted on GitHub Pages. You can view it live at [https://MADHAV.github.io](https://MADHAV.github.io).
+The website is hosted on GitHub Pages. You can view it live at [https://doremon3363.github.io/MADHAV.github.io/index.html].
 
 ## Credits
 
